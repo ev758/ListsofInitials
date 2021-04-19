@@ -1,0 +1,2 @@
+C:\Users\Eric\Documents\Visual Studio 2019\Classwork\Projects\List of Initials\Debug\List of Initials.exe
+C:\Users\Eric\Documents\Visual Studio 2019\Classwork\Projects\List of Initials\Debug\List of Initials.pdb
